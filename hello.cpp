@@ -1,6 +1,6 @@
 /**
  * @file hello.cpp
- * @author your name (you@domain.com)
+ * @author Benton Ream (bream@ut.utm.edu)
  * @brief 
  */
 #include <iostream>
@@ -9,5 +9,5 @@ using namespace std;
 
 int main()
 {
-    // YOUR CODE HERE
+    cout << "Hello, GitHub!" << endl;
 }
